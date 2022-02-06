@@ -1,11 +1,11 @@
 # Site settings
-title: Fazal | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Fazal | Simple github pages blog
+description: "Blog template, build with Jekyll."
+url: "https://saim4u.github.io/SolutionBoxiz/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Fazal Kareem"
+  email: "saim4u484@gmail.com"
+  url: "https://saim4u.github.io/SolutionBoxiz/"
 
 # Build settings
 baseurl: /SolutionBoxiz/ # Change this to your relative path (ex: /blog/), or leave just a /
